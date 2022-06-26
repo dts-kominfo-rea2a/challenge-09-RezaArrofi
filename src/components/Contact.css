@@ -1,0 +1,23 @@
+.card{
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    width: 35%;
+    height: 80%;
+    margin-top: 40px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: row;
+    text-align: center;
+    justify-content:center;
+    padding: 15px  ;
+    background-color: cyan;
+}
+
+img{
+    border-radius: 50%;
+    width: 150px;
+    height: 150px;
+}
+
+.container{
+    padding: 0 65px;
+}
